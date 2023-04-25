@@ -1,0 +1,21 @@
+.App{
+  width: 100%;
+  text-align: center;
+}
+
+
+.btn-dropdown{
+  border-radius: 10px;
+  background-color: aqua;
+  padding: 10px;
+  
+}
+.btn-dropdown:hover{
+  background-color:aquamarine;
+}
+.dropdown-menu{
+  background-color: none;
+  list-style: none;
+  text-align: left;
+  margin: auto auto;
+}
